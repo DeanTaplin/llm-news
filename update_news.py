@@ -11,7 +11,7 @@ def fetch_news():
     }
     
     params = {
-        'q': 'LLM AI news ChatGPT Claude Gemini -site:reddit.com',
+        'q': 'LLM AI news last 7 days -site:reddit.com',
         'count': 20,
         'freshness': 'pw' # past week
     }
