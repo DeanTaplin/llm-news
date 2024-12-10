@@ -63,8 +63,8 @@ def main():
         # Create monthly directory if it doesn't exist
         current_month = datetime.now().strftime('%Y-%m')
         
-        # Write to latest-news.md
-        with open('latest-news.md', 'w', encoding='utf-8') as f:
+        # Write to RAEADME.md
+        with open('README.md', 'w', encoding='utf-8') as f:
             f.write(content)
         
     except Exception as e:
