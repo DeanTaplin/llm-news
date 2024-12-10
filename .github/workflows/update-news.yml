@@ -1,0 +1,130 @@
+name: Weekly LLM News Update
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every Monday
+    - cron: '0 0 * * 1'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip install python-dateutil
+          pip install markdown
+
+      - name: Create news update script
+        run: |
+          cat > update_news.py << 'EOL'
+          import requests
+          import json
+          from datetime import datetime, timedelta
+          import os
+          from dateutil.parser import parse
+
+          def fetch_news():
+              # Replace with your Brave API key
+              headers = {
+                  'Accept': 'application/json',
+                  'X-Subscription-Token': '${{ secrets.BRAVE_API_KEY }}'
+              }
+              
+              # Search parameters
+              params = {
+                  'q': 'LLM AI news ChatGPT Claude Gemini -site:reddit.com',
+                  'count': 20,
+                  'freshness': 'pw' # past week
+              }
+              
+              response = requests.get(
+                  'https://api.search.brave.com/res/v1/web/search',
+                  headers=headers,
+                  params=params
+              )
+              
+              return response.json()
+
+          def format_news(articles):
+              now = datetime.now()
+              content = f"# LLM News Update - {now.strftime('%B %Y')}\n\n"
+              content += "A curated collection of the latest developments in Large Language Models (LLMs) and AI.\n\n"
+              content += f"Last updated: {now.strftime('%B %d, %Y')}\n\n"
+              content += "## Latest Developments\n\n"
+              
+              for article in articles.get('web', {}).get('results', []):
+                  title = article.get('title', '').replace('|', '-')
+                  description = article.get('description', '')
+                  url = article.get('url', '')
+                  
+                  content += f"### {title}\n"
+                  content += f"**Summary:** {description}\n\n"
+                  content += f"**Source:** [{url.split('/')[2]}]({url})\n\n"
+              
+              content += "---\n\n"
+              content += "## Contributing\n\n"
+              content += "Feel free to submit pull requests with new articles or updates. Please ensure all submissions include:\n"
+              content += "- Clear headline\n"
+              content += "- Brief summary\n"
+              content += "- Reliable source link\n"
+              content += "- Date of publication"
+              
+              return content
+
+          def main():
+              try:
+                  # Fetch news
+                  news_data = fetch_news()
+                  
+                  # Format content
+                  content = format_news(news_data)
+                  
+                  # Create monthly directory if it doesn't exist
+                  current_month = datetime.now().strftime('%Y-%m')
+                  
+                  # Write to latest-news.md
+                  with open('latest-news.md', 'w', encoding='utf-8') as f:
+                      f.write(content)
+                  
+              except Exception as e:
+                  print(f"Error: {str(e)}")
+                  exit(1)
+
+          if __name__ == "__main__":
+              main()
+          EOL
+
+      - name: Run update script
+        env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+        run: python update_news.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git status --porcelain
+          echo "changes=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changes > 0
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Update LLM news for $(date +'%Y-%m-%d')"
+          git push
