@@ -6,25 +6,25 @@ Last updated: December 10, 2024
 
 ## Latest Developments
 
-### r/technology on Reddit: Stop using generative AI as a search engine. A fake presidential pardon explains why you can’t trust robots with the news.
-**Summary:** 417 votes, 52 comments. 18M subscribers in the technology community. Subreddit dedicated to the <strong>news</strong> and discussions about the creation and use of…
+### r/MachineLearning on Reddit: [D]Stuck in AI Hell: What to do in post LLM world
+**Summary:** 585 votes, 183 comments. Hey <strong>Reddit</strong>, I’ve been in an <strong>AI</strong>/ML role for a few years now, and I’m starting to feel disconnected from the work. When I…
 
-**Source:** [www.reddit.com](https://www.reddit.com/r/technology/comments/1h7g0hv/stop_using_generative_ai_as_a_search_engine_a/)
+**Source:** [www.reddit.com](https://www.reddit.com/r/MachineLearning/comments/1h7jg87/dstuck_in_ai_hell_what_to_do_in_post_llm_world/)
 
-### r/ChatGPT on Reddit: Hahaha, Google and OpenAI are in a battle. New Gemini experimental "1206" with 2 million tokens Ranking 1 across all domains in Lmarena benchmark. 100% free
-**Summary:** 48 votes, 13 comments. 8.2M subscribers in the <strong>ChatGPT</strong> community. Subreddit to discuss <strong>ChatGPT</strong> <strong>and</strong> <strong>AI</strong>. Not affiliated with OpenAI. Thanks, Nat!
+### Reddit - Wikipedia
+**Summary:** During the off-air hours, 24/<strong>7</strong> streaming was possible to the dedicated subreddits, but with limited slots and capabilities. On August 19, 2019, <strong>Reddit</strong> announced RPAN. It was said to be in testing, but they were experimenting with making it a permanent program, as well as a way to increase revenue for the platform. Later, a five-<strong>day</strong> ...
 
-**Source:** [www.reddit.com](https://www.reddit.com/r/ChatGPT/comments/1h8a36j/hahaha_google_and_openai_are_in_a_battle_new/)
+**Source:** [en.wikipedia.org](https://en.wikipedia.org/wiki/Reddit)
 
-### r/perplexity_ai on Reddit: Perplexity + Claude or Perplexity + ChatGPT?
-**Summary:** So I am a university student who does quite a bit of research. Perplexity is great for finding stuff but horrendous at interpreting it. The context…
+### r/ArtificialInteligence on Reddit: Here's what's making news in AI.
+**Summary:** Spotlight: OpenAI Poaches 3 Top Engineers From DeepMind (Source: WIRED) Google’s new generative <strong>AI</strong> video model is now available (Source: The Verge)…
 
-**Source:** [www.reddit.com](https://www.reddit.com/r/perplexity_ai/comments/1h6ebwa/perplexity_claude_or_perplexity_chatgpt/)
+**Source:** [www.reddit.com](https://www.reddit.com/r/ArtificialInteligence/comments/1h6k70q/heres_whats_making_news_in_ai/)
 
-### 17 Best ChatGPT Alternatives & Competitors [2024] Free & Paid
-**Summary:** The Best <strong>ChatGPT</strong> alternative is ChatSonic. Other popular tested <strong>ChatGPT</strong> alternatives are <strong>Gemini</strong>, <strong>Claude</strong> 3, Microsoft Pilot, Perplexity <strong>AI</strong>, and more.
+### Large language model - Wikipedia
+**Summary:** Mistral <strong>AI</strong>&#x27;s models Mistral 7B and Mixtral 8x7b have the more permissive Apache License. As of June 2024, The Instruction fine tuned variant of the Llama 3 70 billion parameter model is the most powerful open <strong>LLM</strong> according to the LMSYS Chatbot Arena Leaderboard, being more powerful than GPT-3.5 ...
 
-**Source:** [writesonic.com](https://writesonic.com/blog/chatgpt-alternatives)
+**Source:** [en.wikipedia.org](https://en.wikipedia.org/wiki/Large_language_model)
 
 ---
 
