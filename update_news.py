@@ -11,7 +11,7 @@ def fetch_news():
     }
     
     params = {
-        'q': 'LLM AI news last 7 days -site:reddit.com',
+        'q': 'LLM AI news last 7 days -site:reddit.com -site:www.reddit.com -inurl:reddit',
         'count': 20,
         'freshness': 'pw' # past week
     }
