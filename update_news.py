@@ -11,9 +11,16 @@ def fetch_news():
     }
     
     params = {
-        'q': 'LLM AI news last 7 days -site:reddit.com -site:www.reddit.com -inurl:reddit',
+        'q': '''
+            "LLM" OR "ChatGPT" OR "Claude" OR "Gemini" OR "Large Language Model" 
+            news AI artificial intelligence 
+            -site:reddit.com 
+            -site:www.reddit.com 
+            -inurl:reddit
+            ''',
         'count': 20,
-        'freshness': 'pw' # past week
+        'freshness': 'pw', # past week
+        'text_format': 'plain'
     }
     
     response = requests.get(
@@ -23,6 +30,21 @@ def fetch_news():
     )
     
     return response.json()
+
+def filter_news(article):
+    # Skip if title or description is empty
+    if not article.get('title') or not article.get('description'):
+        return False
+        
+    # Skip if URL contains reddit
+    if 'reddit' in article.get('url', '').lower():
+        return False
+        
+    # Skip if title or description mentions reddit
+    if 'reddit' in article.get('title', '').lower() or 'reddit' in article.get('description', '').lower():
+        return False
+        
+    return True
 
 def format_news(articles):
     now = datetime.now()
@@ -48,7 +70,13 @@ def format_news(articles):
     content += f"Last updated: {now.strftime('%B %d, %Y')}\n\n"
     content += "## Latest Developments\n\n"
     
-    for article in articles.get('web', {}).get('results', []):
+    # Filter and sort articles
+    filtered_articles = [
+        article for article in articles.get('web', {}).get('results', [])
+        if filter_news(article)
+    ]
+    
+    for article in filtered_articles:
         title = article.get('title', '').replace('|', '-')
         description = article.get('description', '')
         url = article.get('url', '')
