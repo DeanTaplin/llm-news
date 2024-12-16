@@ -12,7 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
 
     steps:
       - name: Checkout repository
@@ -159,24 +158,9 @@ jobs:
           BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
         run: python update_readme.py
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "docs: update README with latest LLM news"
-          title: "Weekly Update: LLM News"
-          body: |
-            🤖 Weekly automated update of LLM news
-            
-            This PR contains the latest updates in the LLM space, including:
-            - Major model releases and improvements
-            - Notable innovations
-            - Market trends
-            
-            Please review the changes and merge if everything looks correct.
-          branch: update-llm-news
-          base: main
-          delete-branch: true
-          labels: |
-            automated-pr
-            documentation
+      - name: Commit and push if changes exist
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update README with latest LLM news [skip ci]" && git push)
