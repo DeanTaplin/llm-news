@@ -6,40 +6,27 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-1. **Gemini Family Expansion**
-   - Google releases new Gemini variants:
-     - Gemini 1.0 Nano
-     - Gemini 1.5 Flash
-     - Gemini 1.5 Pro
-     - Gemini 1.0 Ultra
-   - Each model optimized for different device capabilities and use cases
-   - [Source](https://www.shakudo.io/blog/top-9-large-language-models)
+### Major Model Releases & Improvements
 
-2. **GPT-4o Performance**
-   - Achieves 232ms response time (human-like speed)
-   - Significantly faster than GPT-4 Turbo
-   - Free availability for developers and customers
-   - [Source](https://www.techtarget.com/whatis/feature/12-of-the-best-large-language-models)
+- **Language models recent news | AI Business**
+  - Explore the latest <strong>news</strong> and expert commentary on <strong>Language</strong> <strong>models</strong>, brought to you by the editors of <strong>AI</strong> Business
+  - [Source](https://aibusiness.com/nlp/language-models)
 
-3. **Inflection-2.5 Release**
-   - Achieves 94% of GPT-4's performance
-   - Uses only 40% of GPT-4's training compute
-   - Powers the Pi AI assistant
-   - [Source](https://explodingtopics.com/blog/list-of-llms)
+- **19 of the best large language models in 2024**
+  - The Claude LLM focuses on constitutional AI, which shapes AI outputs guided by a set of principles that help the AI assistant it powers helpful, harmless and accurate. Claude was created by the company Anthropic. <strong>The latest iteration of the Claude LLM is Claude 3.5 Sonnet</strong>.
+  - [Source](https://www.techtarget.com/whatis/feature/12-of-the-best-large-language-models)
 
-### Notable Innovations
+- **What is LLM? - Large Language Models Explained - AWS**
+  - Learn what Large <strong>Language</strong> <strong>Models</strong> are and why LLMs are essential. Discover its benefits and how you can use it to create new content and ideas including text, conversations, images, video, and audio.
+  - [Source](https://aws.amazon.com/what-is/large-language-model/)
 
-1. **Digital Twin Breakthrough**
-   - Creation of accurate digital twins from 2-hour LLM interviews
-   - Demonstrates new possibilities in AI personalization
-   - [Source](https://highpeaksw.com/news/latest-llm-news-how-tech-giants-are-innovating-ai-development/)
+- **AI News - Artificial Intelligence News**
+  - <strong>Ai2 is releasing OLMo 2,</strong> a family of open-source language models that advances the democratisation of AI and narrows the gap between open and proprietary solutions.
+  - [Source](https://www.artificialintelligence-news.com/)
 
-### Market Trends
-
-- Continued market growth in LLM sector
-- Improving capabilities in human language processing
-- Increasing focus on efficiency and performance optimization
-- [Source](https://springsapps.com/knowledge/large-language-model-statistics-and-numbers-2024)
+- **NVIDIA Large Language Models (LLM) News**
+  - Sign up to get the latest <strong>news</strong> about large <strong>language</strong> <strong>models</strong> (<strong>LLM</strong>) technologies from NVIDIA.
+  - [Source](https://www.nvidia.com/en-us/deep-learning-ai/large-language-model-news/)
 
 ## Contributing
 
