@@ -48,7 +48,7 @@ jobs:
               return response.json()
 
           def generate_readme_content(news_data):
-              current_date = datetime.now().strftime("%B %Y")
+              current_date = datetime.now().strftime("%B %d, %Y")
               
               content = f"""# LLM News Tracker
 
