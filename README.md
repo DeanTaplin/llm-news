@@ -2,9 +2,8 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (December 2024)
+## Latest Updates (December 23, 2024)
 
-### Major Model Releases & Improvements
 
 ### Major Model Releases & Improvements
 
@@ -16,17 +15,17 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - The Claude LLM focuses on constitutional AI, which shapes AI outputs guided by a set of principles that help the AI assistant it powers helpful, harmless and accurate. Claude was created by the company Anthropic. <strong>The latest iteration of the Claude LLM is Claude 3.5 Sonnet</strong>.
   - [Source](https://www.techtarget.com/whatis/feature/12-of-the-best-large-language-models)
 
-- **AI News - Artificial Intelligence News**
-  - <strong>Ai2 is releasing OLMo 2,</strong> a family of open-source language models that advances the democratisation of AI and narrows the gap between open and proprietary solutions.
-  - [Source](https://www.artificialintelligence-news.com/)
+- **Latest LLM news: How tech giants are innovating AI development | High Peak Software**
+  - This <strong>week</strong>, we delve into how tech giants are pioneering <strong>AI</strong> development, shaping the future of technology. With the state of <strong>AI</strong> advancing rapidly, our exclusive insights keep you informed on these transformative developments. ... The latest development in <strong>LLM</strong> <strong>news</strong> highlights a fascinating phenomenon. Large <strong>Language</strong> <strong>Models</strong> ...
+  - [Source](https://highpeaksw.com/news/latest-llm-news-how-tech-giants-are-innovating-ai-development/)
 
-- **What is LLM? - Large Language Models Explained - AWS**
-  - Learn what Large <strong>Language</strong> <strong>Models</strong> are and why LLMs are essential. Discover its benefits and how you can use it to create new content and ideas including text, conversations, images, video, and audio.
-  - [Source](https://aws.amazon.com/what-is/large-language-model/)
+- **The best large language models (LLMs) in 2024**
+  - There are dozens of major LLMs, and hundreds that are arguably significant for some reason or other. These are 14 of the best LLMs available now.
+  - [Source](https://zapier.com/blog/best-llm/)
 
-- **NVIDIA Large Language Models (LLM) News**
-  - Sign up to get the latest <strong>news</strong> about large <strong>language</strong> <strong>models</strong> (<strong>LLM</strong>) technologies from NVIDIA.
-  - [Source](https://www.nvidia.com/en-us/deep-learning-ai/large-language-model-news/)
+- **Large Language Model News, Analysis and Resources**
+  - Everything you&#x27;ve ever wanted to know about large <strong>language</strong> <strong>models</strong> (LLMs) starts here. Learn the history and keep up with the latest <strong>news</strong> about LLMs.
+  - [Source](https://thenewstack.io/llm/)
 
 ## Contributing
 
