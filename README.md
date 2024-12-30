@@ -2,30 +2,30 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (December 23, 2024)
+## Latest Updates (December 30, 2024)
 
 
 ### Major Model Releases & Improvements
 
 - **Language models recent news | AI Business**
-  - Explore the latest <strong>news</strong> and expert commentary on <strong>Language</strong> <strong>models</strong>, brought to you by the editors of <strong>AI</strong> Business
+  - Most Read: <strong>Meta to Open $10B AI Data Center in Louisiana</strong>; How IBM is Using AI to Disrupt ConsultancyMost Read: <strong>Meta to Open $10B AI Data Center in Louisiana</strong>; How IBM is Using AI to Disrupt Consultancy ... Digitas’ Louis Vainquer on Large Language Models at AI Summit New YorkDigitas’ Louis ...
   - [Source](https://aibusiness.com/nlp/language-models)
-
-- **19 of the best large language models in 2024**
-  - The Claude LLM focuses on constitutional AI, which shapes AI outputs guided by a set of principles that help the AI assistant it powers helpful, harmless and accurate. Claude was created by the company Anthropic. <strong>The latest iteration of the Claude LLM is Claude 3.5 Sonnet</strong>.
-  - [Source](https://www.techtarget.com/whatis/feature/12-of-the-best-large-language-models)
 
 - **Latest LLM news: How tech giants are innovating AI development | High Peak Software**
   - This <strong>week</strong>, we delve into how tech giants are pioneering <strong>AI</strong> development, shaping the future of technology. With the state of <strong>AI</strong> advancing rapidly, our exclusive insights keep you informed on these transformative developments. ... The latest development in <strong>LLM</strong> <strong>news</strong> highlights a fascinating phenomenon. Large <strong>Language</strong> <strong>Models</strong> ...
   - [Source](https://highpeaksw.com/news/latest-llm-news-how-tech-giants-are-innovating-ai-development/)
 
-- **The best large language models (LLMs) in 2024**
-  - There are dozens of major LLMs, and hundreds that are arguably significant for some reason or other. These are 14 of the best LLMs available now.
-  - [Source](https://zapier.com/blog/best-llm/)
+- **19 of the best large language models in 2024**
+  - The Claude LLM focuses on constitutional AI, which shapes AI outputs guided by a set of principles that help the AI assistant it powers helpful, harmless and accurate. Claude was created by the company Anthropic. <strong>The latest iteration of the Claude LLM is Claude 3.5 Sonnet</strong>.
+  - [Source](https://www.techtarget.com/whatis/feature/12-of-the-best-large-language-models)
 
 - **Large Language Model News, Analysis and Resources**
   - Everything you&#x27;ve ever wanted to know about large <strong>language</strong> <strong>models</strong> (LLMs) starts here. Learn the history and keep up with the latest <strong>news</strong> about LLMs.
   - [Source](https://thenewstack.io/llm/)
+
+- **What is LLM? - Large Language Models Explained - AWS**
+  - Learn what Large <strong>Language</strong> <strong>Models</strong> are and why LLMs are essential. Discover its benefits and how you can use it to create new content and ideas including text, conversations, images, video, and audio.
+  - [Source](https://aws.amazon.com/what-is/large-language-model/)
 
 ## Contributing
 
