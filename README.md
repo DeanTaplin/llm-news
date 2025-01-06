@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (December 30, 2024)
+## Latest Updates (January 06, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -19,13 +19,13 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - The Claude LLM focuses on constitutional AI, which shapes AI outputs guided by a set of principles that help the AI assistant it powers helpful, harmless and accurate. Claude was created by the company Anthropic. <strong>The latest iteration of the Claude LLM is Claude 3.5 Sonnet</strong>.
   - [Source](https://www.techtarget.com/whatis/feature/12-of-the-best-large-language-models)
 
-- **Large Language Model News, Analysis and Resources**
-  - Everything you&#x27;ve ever wanted to know about large <strong>language</strong> <strong>models</strong> (LLMs) starts here. Learn the history and keep up with the latest <strong>news</strong> about LLMs.
-  - [Source](https://thenewstack.io/llm/)
-
 - **What is LLM? - Large Language Models Explained - AWS**
   - Learn what Large <strong>Language</strong> <strong>Models</strong> are and why LLMs are essential. Discover its benefits and how you can use it to create new content and ideas including text, conversations, images, video, and audio.
   - [Source](https://aws.amazon.com/what-is/large-language-model/)
+
+- **Large Language Model News, Analysis and Resources**
+  - Everything you&#x27;ve ever wanted to know about large <strong>language</strong> <strong>models</strong> (LLMs) starts here. Learn the history and keep up with the latest <strong>news</strong> about LLMs.
+  - [Source](https://thenewstack.io/llm/)
 
 ## Contributing
 
