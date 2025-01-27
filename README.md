@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (January 20, 2025)
+## Latest Updates (January 27, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -23,9 +23,9 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Sign up to get the latest <strong>news</strong> about large <strong>language</strong> <strong>models</strong> (<strong>LLM</strong>) technologies from NVIDIA.
   - [Source](https://www.nvidia.com/en-us/deep-learning-ai/large-language-model-news/)
 
-- **Latest LLM news: How tech giants are innovating AI development | High Peak Software**
-  - This <strong>week</strong>, we delve into how tech giants are pioneering <strong>AI</strong> development, shaping the future of technology. With the state of <strong>AI</strong> advancing rapidly, our exclusive insights keep you informed on these transformative developments. ... The latest development in <strong>LLM</strong> <strong>news</strong> highlights a fascinating phenomenon. Large <strong>Language</strong> <strong>Models</strong> ...
-  - [Source](https://highpeaksw.com/news/latest-llm-news-how-tech-giants-are-innovating-ai-development/)
+- **The best large language models (LLMs) in 2024**
+  - There are dozens of major LLMs, and hundreds that are arguably significant for some reason or other. These are 14 of the best LLMs available now.
+  - [Source](https://zapier.com/blog/best-llm/)
 
 ## Contributing
 
