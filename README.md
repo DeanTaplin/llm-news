@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (February 10, 2025)
+## Latest Updates (February 17, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -23,9 +23,9 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Sign up to get the latest <strong>news</strong> about large <strong>language</strong> <strong>models</strong> (<strong>LLM</strong>) technologies from NVIDIA.
   - [Source](https://www.nvidia.com/en-us/deep-learning-ai/large-language-model-news/)
 
-- **Large Language Models: What You Need to Know in 2025 | HatchWorks AI**
-  - Explore the latest on large <strong>language</strong> <strong>models</strong> in 2025 with our guide on their capabilities, advancements, and limitations.
-  - [Source](https://hatchworks.com/blog/gen-ai/large-language-models-guide/)
+- **What Are Large Language Models (LLMs)? | IBM**
+  - Large <strong>language</strong> <strong>models</strong> <strong>are</strong> <strong>AI</strong> systems capable of understanding and generating human <strong>language</strong> by processing vast amounts of text data.
+  - [Source](https://www.ibm.com/think/topics/large-language-models)
 
 ## Contributing
 
