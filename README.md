@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (March 31, 2025)
+## Latest Updates (April 07, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -19,13 +19,13 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Sign up to get the latest <strong>news</strong> about large <strong>language</strong> <strong>models</strong> (<strong>LLM</strong>) technologies from NVIDIA.
   - [Source](https://www.nvidia.com/en-us/deep-learning-ai/large-language-model-news/)
 
-- **Large language models > News > Page #1**
-  - <strong>Mistral AI has introduced Mistral Saba</strong>, a 24-billion-parameter language model designed to improve AI performance in Arabic and several Indian-origin languages, particularly South Indian languages like Tamil. ... Hugging Face has published the Ultra-Scale Playbook: Training LLMs on GPU Clusters, ...
-  - [Source](https://www.infoq.com/llms/news/)
+- **Top 9 Large Language Models as of April 2025 | Shakudo**
+  - ... If we had to choose one word to describe the rapid evolution of AI today, it would probably be something along the lines of explosive. As predicted by the Market Research Future report, <strong>the large language model (LLM) market in North America alone is expected to reach $105.5 billion by 2030</strong>.
+  - [Source](https://www.shakudo.io/blog/top-9-large-language-models)
 
-- **The Rise of Generative AI Large Language Models (LLMs)**
-  - Distilling the world&#x27;s data, information &amp; knowledge into beautiful infographics &amp; visualizations
-  - [Source](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/)
+- **The best large language models (LLMs) in 2025**
+  - There are dozens of major LLMs, and hundreds that are arguably significant for some reason or other. These are 14 of the best LLMs available now.
+  - [Source](https://zapier.com/blog/best-llm/)
 
 ## Contributing
 
