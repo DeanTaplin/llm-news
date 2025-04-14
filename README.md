@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (April 07, 2025)
+## Latest Updates (April 14, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -19,13 +19,19 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Sign up to get the latest <strong>news</strong> about large <strong>language</strong> <strong>models</strong> (<strong>LLM</strong>) technologies from NVIDIA.
   - [Source](https://www.nvidia.com/en-us/deep-learning-ai/large-language-model-news/)
 
-- **Top 9 Large Language Models as of April 2025 | Shakudo**
-  - ... If we had to choose one word to describe the rapid evolution of AI today, it would probably be something along the lines of explosive. As predicted by the Market Research Future report, <strong>the large language model (LLM) market in North America alone is expected to reach $105.5 billion by 2030</strong>.
-  - [Source](https://www.shakudo.io/blog/top-9-large-language-models)
+- **Large Language Models (LLMs) with Google AI | Google Cloud**
+  - Large <strong>language</strong> <strong>models</strong> (LLMs) are large deep-neural-networks that are trained by tens of gigabytes of data that can be used for many tasks.
+  - [Source](https://cloud.google.com/ai/llms)
 
 - **The best large language models (LLMs) in 2025**
   - There are dozens of major LLMs, and hundreds that are arguably significant for some reason or other. These are 14 of the best LLMs available now.
   - [Source](https://zapier.com/blog/best-llm/)
+
+### Market Trends
+
+- **AI News | Latest AI News, Analysis & Events**
+  - <strong>AI</strong> <strong>News</strong> reports on the latest artificial intelligence <strong>news</strong> and insights. Explore industry trends from the frontline of <strong>AI</strong>.
+  - [Source](https://www.artificialintelligence-news.com/)
 
 ## Contributing
 
