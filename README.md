@@ -2,13 +2,13 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (April 14, 2025)
+## Latest Updates (April 21, 2025)
 
 
 ### Major Model Releases & Improvements
 
 - **Language models recent news | AI Business**
-  - Explore the latest <strong>news</strong> and expert commentary on <strong>Language</strong> <strong>models</strong>, brought to you by the editors of <strong>AI</strong> Business
+  - <strong>Nvidia to Manufacture AI Supercomputers in the US for First Time</strong><strong>Nvidia to Manufacture AI Supercomputers in the US for First Time</strong> ... How Special-Purpose LLMs Elevate Generative AI’s Strategic Role in ITHow Special-Purpose LLMs Elevate Generative AI’s Strategic Role in IT
   - [Source](https://aibusiness.com/nlp/language-models)
 
 - **25 of the best large language models in 2025**
@@ -19,13 +19,13 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Sign up to get the latest <strong>news</strong> about large <strong>language</strong> <strong>models</strong> (<strong>LLM</strong>) technologies from NVIDIA.
   - [Source](https://www.nvidia.com/en-us/deep-learning-ai/large-language-model-news/)
 
-- **Large Language Models (LLMs) with Google AI | Google Cloud**
-  - Large <strong>language</strong> <strong>models</strong> (LLMs) are large deep-neural-networks that are trained by tens of gigabytes of data that can be used for many tasks.
-  - [Source](https://cloud.google.com/ai/llms)
-
 - **The best large language models (LLMs) in 2025**
   - There are dozens of major LLMs, and hundreds that are arguably significant for some reason or other. These are 14 of the best LLMs available now.
   - [Source](https://zapier.com/blog/best-llm/)
+
+- **As generative AI bubble fears grow, the ultra low-cost large language model breakthroughs are booming**
+  - <strong>That&#x27;s the price to rent two Nvidia H200 GPUs on a public cloud and use a simple game to train the &quot;3B&quot; model</strong> — a reference to the billions of parameters in the model that are actually at a much lower total &quot;billions&quot; count than the most complex LLMs which can reach into the hundreds of trillions.
+  - [Source](https://www.cnbc.com/2025/03/27/as-big-tech-bubble-fears-grow-the-30-diy-ai-boom-is-just-starting.html)
 
 ### Market Trends
 
