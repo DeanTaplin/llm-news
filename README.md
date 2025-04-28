@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (April 21, 2025)
+## Latest Updates (April 28, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -15,17 +15,17 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - There are three primary branches of Claude -- Opus, Haiku and Sonnet. <strong>The latest iteration of the Claude LLM is the Claude 3.5 Sonnet</strong>. It understands nuance, humor and complex instructions better than earlier versions of the LLM. It also has broad programming capabilities that make it well-suited ...
   - [Source](https://www.techtarget.com/whatis/feature/12-of-the-best-large-language-models)
 
+- **Making AI-generated code more accurate in any language | MIT News | Massachusetts Institute of Technology**
+  - <strong>Researchers developed a more efficient way to control the outputs of a large language model</strong>, guiding it to generate text that adheres to a certain structure, like a programming language, and remains error free.
+  - [Source](https://news.mit.edu/2025/making-ai-generated-code-more-accurate-0418)
+
 - **NVIDIA Large Language Models (LLM) News**
   - Sign up to get the latest <strong>news</strong> about large <strong>language</strong> <strong>models</strong> (<strong>LLM</strong>) technologies from NVIDIA.
   - [Source](https://www.nvidia.com/en-us/deep-learning-ai/large-language-model-news/)
 
-- **The best large language models (LLMs) in 2025**
-  - There are dozens of major LLMs, and hundreds that are arguably significant for some reason or other. These are 14 of the best LLMs available now.
-  - [Source](https://zapier.com/blog/best-llm/)
-
-- **As generative AI bubble fears grow, the ultra low-cost large language model breakthroughs are booming**
-  - <strong>That&#x27;s the price to rent two Nvidia H200 GPUs on a public cloud and use a simple game to train the &quot;3B&quot; model</strong> — a reference to the billions of parameters in the model that are actually at a much lower total &quot;billions&quot; count than the most complex LLMs which can reach into the hundreds of trillions.
-  - [Source](https://www.cnbc.com/2025/03/27/as-big-tech-bubble-fears-grow-the-30-diy-ai-boom-is-just-starting.html)
+- **Why Is Google Suddenly Leading the LLM Race? In Part, It's Thanks to Stumbles by OpenAI and Meta**
+  - OpenAI also released new reasoning models last week: <strong>o3 and o4-mini</strong>. The o3 model scores particularly well on benchmarks. Cost is once again a concern, however, as access to o3 via the API is priced at $40 per million output tokens. The middling reception of Llama 4 and ChatGPT-4.5 left an ...
+  - [Source](https://spectrum.ieee.org/large-language-models-2025)
 
 ### Market Trends
 
