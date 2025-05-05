@@ -2,13 +2,13 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (April 28, 2025)
+## Latest Updates (May 05, 2025)
 
 
 ### Major Model Releases & Improvements
 
 - **Language models recent news | AI Business**
-  - <strong>Nvidia to Manufacture AI Supercomputers in the US for First Time</strong><strong>Nvidia to Manufacture AI Supercomputers in the US for First Time</strong> ... How Special-Purpose LLMs Elevate Generative AI’s Strategic Role in ITHow Special-Purpose LLMs Elevate Generative AI’s Strategic Role in IT
+  - Explore the latest <strong>news</strong> and expert commentary on <strong>Language</strong> <strong>models</strong>, brought to you by the editors of <strong>AI</strong> Business
   - [Source](https://aibusiness.com/nlp/language-models)
 
 - **25 of the best large language models in 2025**
