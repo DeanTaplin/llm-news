@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (May 05, 2025)
+## Latest Updates (May 12, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -23,9 +23,9 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Sign up to get the latest <strong>news</strong> about large <strong>language</strong> <strong>models</strong> (<strong>LLM</strong>) technologies from NVIDIA.
   - [Source](https://www.nvidia.com/en-us/deep-learning-ai/large-language-model-news/)
 
-- **Why Is Google Suddenly Leading the LLM Race? In Part, It's Thanks to Stumbles by OpenAI and Meta**
-  - OpenAI also released new reasoning models last week: <strong>o3 and o4-mini</strong>. The o3 model scores particularly well on benchmarks. Cost is once again a concern, however, as access to o3 via the API is priced at $40 per million output tokens. The middling reception of Llama 4 and ChatGPT-4.5 left an ...
-  - [Source](https://spectrum.ieee.org/large-language-models-2025)
+- **The best large language models (LLMs) in 2025**
+  - There are dozens of major LLMs, and hundreds that are arguably significant for some reason or other. These are 14 of the best LLMs available now.
+  - [Source](https://zapier.com/blog/best-llm/)
 
 ### Market Trends
 
