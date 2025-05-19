@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (May 12, 2025)
+## Latest Updates (May 19, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -26,12 +26,6 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **The best large language models (LLMs) in 2025**
   - There are dozens of major LLMs, and hundreds that are arguably significant for some reason or other. These are 14 of the best LLMs available now.
   - [Source](https://zapier.com/blog/best-llm/)
-
-### Market Trends
-
-- **AI News | Latest AI News, Analysis & Events**
-  - <strong>AI</strong> <strong>News</strong> reports on the latest artificial intelligence <strong>news</strong> and insights. Explore industry trends from the frontline of <strong>AI</strong>.
-  - [Source](https://www.artificialintelligence-news.com/)
 
 ## Contributing
 
