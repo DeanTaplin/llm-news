@@ -2,30 +2,42 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (May 19, 2025)
+## Latest Updates (May 23, 2025)
 
+
+## News Archives
+
+Browse news from previous weeks:
+
+- [News from 2025-05-19](archives/news_2025-05-19.md)
 
 ### Major Model Releases & Improvements
 
 - **Language models recent news | AI Business**
-  - Explore the latest <strong>news</strong> and expert commentary on <strong>Language</strong> <strong>models</strong>, brought to you by the editors of <strong>AI</strong> Business
+  - Explore the latest <strong>news</strong> and expert commentary on <strong>Language</strong> <strong>models</strong>, brought to you by the editors <strong>of</strong> <strong>AI</strong> Business
   - [Source](https://aibusiness.com/nlp/language-models)
+
+- **LLM Trends 2025: A Deep Dive into the Future of Large Language Models | by PrajnaAI | Medium**
+  - As noted on Wikipedia, LLMs are ... and training costs to ethical issues and potential misuse. In 2025, <strong>the focus will be as much on refining and securing these models as it is on scaling them up</strong>....
+  - [Source](https://prajnaaiwisdom.medium.com/llm-trends-2025-a-deep-dive-into-the-future-of-large-language-models-bff23aa7cdbc)
+
+- **Making AI-generated code more accurate in any language | MIT News | Massachusetts Institute of Technology**
+  - Researchers developed a more efficient way to control the outputs of a large <strong>language</strong> <strong>model</strong>, guiding it to generate text that adheres to a certain structure, like a programming <strong>language</strong>, and remains error free.
+  - [Source](https://news.mit.edu/2025/making-ai-generated-code-more-accurate-0418)
+
+- **The best large language models (LLMs) in 2025**
+  - <strong>Harry Guinness is a writer and photographer from Dublin, Ireland</strong>. His writing has appeared in the New York Times, Lifehacker, the Irish Examiner, and How-To Geek.
+  - [Source](https://zapier.com/blog/best-llm/)
 
 - **25 of the best large language models in 2025**
   - There are three primary branches of Claude -- Opus, Haiku and Sonnet. <strong>The latest iteration of the Claude LLM is the Claude 3.5 Sonnet</strong>. It understands nuance, humor and complex instructions better than earlier versions of the LLM. It also has broad programming capabilities that make it well-suited ...
   - [Source](https://www.techtarget.com/whatis/feature/12-of-the-best-large-language-models)
 
-- **Making AI-generated code more accurate in any language | MIT News | Massachusetts Institute of Technology**
-  - <strong>Researchers developed a more efficient way to control the outputs of a large language model</strong>, guiding it to generate text that adheres to a certain structure, like a programming language, and remains error free.
-  - [Source](https://news.mit.edu/2025/making-ai-generated-code-more-accurate-0418)
+### Notable Innovations
 
-- **NVIDIA Large Language Models (LLM) News**
-  - Sign up to get the latest <strong>news</strong> about large <strong>language</strong> <strong>models</strong> (<strong>LLM</strong>) technologies from NVIDIA.
-  - [Source](https://www.nvidia.com/en-us/deep-learning-ai/large-language-model-news/)
-
-- **The best large language models (LLMs) in 2025**
-  - There are dozens of major LLMs, and hundreds that are arguably significant for some reason or other. These are 14 of the best LLMs available now.
-  - [Source](https://zapier.com/blog/best-llm/)
+- **18 Artificial Intelligence LLM Trends in 2025 | by Gianpiero Andrenacci | Data Bistrot | Medium**
+  - Emerging Trends, Innovations, and Challenges in the Era of Advanced <strong>AI</strong>
+  - [Source](https://medium.com/data-bistrot/15-artificial-intelligence-llm-trends-in-2024-618a058c9fdf)
 
 ## Contributing
 
