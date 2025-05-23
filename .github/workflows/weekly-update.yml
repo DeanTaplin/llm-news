@@ -32,6 +32,7 @@ jobs:
           cat > update_readme.py << 'EOL'
           import os
           import json
+          import re
           import requests
           from datetime import datetime
           from dateutil.relativedelta import relativedelta
@@ -57,6 +58,27 @@ jobs:
           ## Latest Updates ({current_date})
 
           """
+
+              # Add News Archives section
+              content += "\n## News Archives\n\n"
+              archive_links_md = "Browse news from previous weeks:\n\n"
+              archive_files = []
+              if os.path.exists('archives'):
+                  archive_files = sorted(
+                      [f for f in os.listdir('archives') if f.startswith('news_') and f.endswith('.md')],
+                      reverse=True
+                  )
+              
+              if archive_files:
+                  for f_name in archive_files:
+                      # Ensure correct path joining for markdown links
+                      link_path = os.path.join('archives', f_name).replace('\\', '/')
+                      date_str = f_name.replace('news_', '').replace('.md', '')
+                      archive_links_md += f"- [News from {date_str}]({link_path})\n"
+              else:
+                  archive_links_md += "No archived news available yet.\n"
+              
+              content += archive_links_md
               
               # Process and categorize news here
               model_releases = []
@@ -137,8 +159,35 @@ jobs:
               return content
 
           def main():
+              # Create archives directory if it doesn't exist
+              os.makedirs('archives', exist_ok=True)
+
+              # Archive existing README.md
+              archive_date_str = None
+              try:
+                  with open('README.md', 'r', encoding='utf-8') as f_old:
+                      old_content = f_old.read()
+                  if old_content:
+                      # Try to parse date from header like "## Latest Updates (May 19, 2025)"
+                      match = re.search(r"## Latest Updates \((.+)\)", old_content)
+                      if match:
+                          parsed_date = datetime.strptime(match.group(1), "%B %d, %Y")
+                          archive_date_str = parsed_date.strftime("%Y-%m-%d")
+              except FileNotFoundError:
+                  old_content = None # README.md doesn't exist
+              
+              if not archive_date_str: # Fallback if parsing failed or README was empty/not found
+                  archive_date_str = (datetime.now() - relativedelta(weeks=1)).strftime("%Y-%m-%d")
+
+              if old_content:
+                  archive_filename = f"archives/news_{archive_date_str}.md"
+                  with open(archive_filename, 'w', encoding='utf-8') as f_archive:
+                      f_archive.write(old_content)
+                  print(f"Archived old README to {archive_filename}")
+
               # Search for latest LLM news
-              query = "LLM AI language model news last week"
+              current_week_str = datetime.now().strftime("%Y-%m-%d")
+              query = f"LLM AI language model news for week of {current_week_str}"
               news_data = search_brave(query)
               
               # Generate new README content
@@ -161,5 +210,5 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update README with latest LLM news [skip ci]" && git push)
+          git add README.md archives/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update README with latest LLM news and archive old news [skip ci]" && git push)
