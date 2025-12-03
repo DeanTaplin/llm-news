@@ -58,27 +58,6 @@ jobs:
           ## Latest Updates ({current_date})
 
           """
-
-              # Add News Archives section
-              content += "\n## News Archives\n\n"
-              archive_links_md = "Browse news from previous weeks:\n\n"
-              archive_files = []
-              if os.path.exists('archives'):
-                  archive_files = sorted(
-                      [f for f in os.listdir('archives') if f.startswith('news_') and f.endswith('.md')],
-                      reverse=True
-                  )
-              
-              if archive_files:
-                  for f_name in archive_files:
-                      # Ensure correct path joining for markdown links
-                      link_path = os.path.join('archives', f_name).replace('\\', '/')
-                      date_str = f_name.replace('news_', '').replace('.md', '')
-                      archive_links_md += f"- [News from {date_str}]({link_path})\n"
-              else:
-                  archive_links_md += "No archived news available yet.\n"
-              
-              content += archive_links_md
               
               # Process and categorize news here
               model_releases = []
@@ -117,6 +96,22 @@ jobs:
               if market_trends:
                   content += "\n### Market Trends\n\n"
                   content += "\n".join(market_trends[:5])  # Limit to top 5
+
+              # Add News Archive section
+              content += "\n## News Archive\n\n"
+              content += "[Browse all historical news](./history/)\n\n"
+              
+              history_files = glob.glob("history/*_news.md")
+              history_files.sort(reverse=True) # Sorts newest first based on YYYY-MM-DD filenames
+              
+              if not history_files:
+                  content += "No archived news yet.\n"
+              else:
+                  for i, file_path in enumerate(history_files[:5]):
+                      # Extract YYYY-MM-DD from filename like 'history/YYYY-MM-DD_news.md'
+                      filename = os.path.basename(file_path)
+                      date_str = filename.split('_')[0]
+                      content += f"- [News from {date_str}](./{file_path})\n"
               
               # Add the standard sections
               content += """
