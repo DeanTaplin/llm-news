@@ -34,6 +34,7 @@ jobs:
           import json
           import re
           import requests
+          import glob
           from datetime import datetime
           from dateutil.relativedelta import relativedelta
 
@@ -101,7 +102,7 @@ jobs:
               content += "\n## News Archive\n\n"
               content += "[Browse all historical news](./history/)\n\n"
               
-              history_files = glob.glob("history/*_news.md")
+              history_files = glob.glob("archives/news_*.md")
               history_files.sort(reverse=True) # Sorts newest first based on YYYY-MM-DD filenames
               
               if not history_files:
