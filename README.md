@@ -2,48 +2,22 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (December 01, 2025)
+## Latest Updates (December 08, 2025)
 
-
-## News Archives
-
-Browse news from previous weeks:
-
-- [News from 2025-11-24](archives/news_2025-11-24.md)
-- [News from 2025-11-17](archives/news_2025-11-17.md)
-- [News from 2025-11-10](archives/news_2025-11-10.md)
-- [News from 2025-11-03](archives/news_2025-11-03.md)
-- [News from 2025-10-27](archives/news_2025-10-27.md)
-- [News from 2025-10-20](archives/news_2025-10-20.md)
-- [News from 2025-10-13](archives/news_2025-10-13.md)
-- [News from 2025-10-06](archives/news_2025-10-06.md)
-- [News from 2025-09-29](archives/news_2025-09-29.md)
-- [News from 2025-09-22](archives/news_2025-09-22.md)
-- [News from 2025-09-15](archives/news_2025-09-15.md)
-- [News from 2025-09-08](archives/news_2025-09-08.md)
-- [News from 2025-09-01](archives/news_2025-09-01.md)
-- [News from 2025-08-25](archives/news_2025-08-25.md)
-- [News from 2025-08-18](archives/news_2025-08-18.md)
-- [News from 2025-08-11](archives/news_2025-08-11.md)
-- [News from 2025-08-04](archives/news_2025-08-04.md)
-- [News from 2025-07-28](archives/news_2025-07-28.md)
-- [News from 2025-07-21](archives/news_2025-07-21.md)
-- [News from 2025-07-14](archives/news_2025-07-14.md)
-- [News from 2025-07-07](archives/news_2025-07-07.md)
-- [News from 2025-06-30](archives/news_2025-06-30.md)
-- [News from 2025-06-23](archives/news_2025-06-23.md)
-- [News from 2025-06-16](archives/news_2025-06-16.md)
-- [News from 2025-06-09](archives/news_2025-06-09.md)
-- [News from 2025-06-02](archives/news_2025-06-02.md)
-- [News from 2025-05-26](archives/news_2025-05-26.md)
-- [News from 2025-05-23](archives/news_2025-05-23.md)
-- [News from 2025-05-19](archives/news_2025-05-19.md)
 
 ### Major Model Releases & Improvements
 
 - **Large language models > News > Page #1**
   - WHEN: <strong>Thursday, December 4, 2025 1:00 PM - 2:00 PM EST</strong>
   - [Source](https://www.infoq.com/llms/news/)
+
+- **A smarter way for large language models to think about hard problems | MIT News | Massachusetts Institute of Technology**
+  - <strong>The researchers found that their new approach enabled LLMs to use as little as one-half the computation as existing methods, while achieving comparable accuracy on a range of questions with varying difficulties</strong>.
+  - [Source](https://news.mit.edu/2025/smarter-way-large-language-models-think-about-hard-problems-1204)
+
+- **OpenAI has trained its LLM to confess to bad behavior | MIT Technology Review**
+  - <strong>OpenAI is testing another new way to expose the complicated processes at work inside large language models</strong>. Researchers at the company can make an LLM produce what they call a confession, in which the model explains how it carried out a task ...
+  - [Source](https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/)
 
 - **Language models recent news | AI Business**
   - Explore the latest news and expert commentary on Language models, brought to you by the editors of AI Business
@@ -53,13 +27,21 @@ Browse news from previous weeks:
   - <strong>ChatGPT maker OpenAI has built an experimental large language model that is far easier to understand than typical models</strong>. That’s a big deal, because today’s LLMs are black boxes: Nobody fully understands how they do what they do.
   - [Source](https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/)
 
-- **Researchers discover a shortcoming that makes LLMs less reliable | MIT News | Massachusetts Institute of Technology**
-  - <strong>MIT researchers find large language models sometimes mistakenly link grammatical sequences to specific topics, then rely on these learned patterns when answering queries</strong>. This can cause LLMs to fail on new tasks and could be exploited by adversarial ...
-  - [Source](https://news.mit.edu/2025/shortcoming-makes-llms-less-reliable-1126)
+### Notable Innovations
 
-- **Teaching large language models how to absorb new knowledge | MIT News | Massachusetts Institute of Technology**
-  - <strong>MIT researchers developed a technique that enables LLMs to permanently absorb new knowledge by generating study sheets based on data the model uses to memorize important information</strong>.
-  - [Source](https://news.mit.edu/2025/teaching-large-language-models-to-absorb-new-knowledge-1112)
+- **The Latest AI News and AI Breakthroughs that Matter Most: 2025 | News**
+  - Date: August 14, 2025 Summary: <strong>The Allen Institute for AI (Ai2) has secured $152 million in funding, $75 million from the NSF and $77 million from NVIDIA, for the Open Multimodal AI Infrastructure to Accelerate Science (OMAI) project</strong>.
+  - [Source](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+
+## News Archive
+
+[Browse all historical news](./history/)
+
+- [News from news](./archives/news_2025-12-01.md)
+- [News from news](./archives/news_2025-11-24.md)
+- [News from news](./archives/news_2025-11-17.md)
+- [News from news](./archives/news_2025-11-10.md)
+- [News from news](./archives/news_2025-11-03.md)
 
 ## Contributing
 
