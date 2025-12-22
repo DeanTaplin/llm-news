@@ -2,40 +2,46 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (December 15, 2025)
+## Latest Updates (December 22, 2025)
 
 
 ### Major Model Releases & Improvements
+
+- **A new way to increase the capabilities of large language models | MIT News | Massachusetts Institute of Technology**
+  - The MIT-IBM researchers then explored PaTH Attention’s performance on synthetic and real-world tasks, including reasoning, long-context benchmarks, and full LLM training to see whether it improved a model’s ability to track information over time.
+  - [Source](https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217)
+
+- **Large Language Model News, Analysis and Resources**
+  - Mar 12th 2025 1:00pm, by Darryl K. Taft and Loraine Lawson · Oracle Won’t Release ‘JavaScript’ Without a Fight ... Large Language Models (LLMs) represent a transformative advancement in artificial intelligence, enabling machines to understand, generate, and interact with human language in increasingly sophisticated ways.
+  - [Source](https://thenewstack.io/llm/)
 
 - **Language models recent news | AI Business**
   - Explore the latest news and expert commentary on Language models, brought to you by the editors of AI Business
   - [Source](https://aibusiness.com/nlp/language-models)
 
-- **Enabling small language models to solve complex reasoning tasks | MIT News | Massachusetts Institute of Technology**
-  - Publication Date: December 12, ... Caption: <strong>A new approach developed by MIT CSAIL researchers uses an LLM to plan how to answer complex reasoning tasks, then divides the legwork of that strategy among smaller language models</strong>...
-  - [Source](https://news.mit.edu/2025/enabling-small-language-models-solve-complex-reasoning-tasks-1212)
+- **LLM News Today | AI News & Latest Model Announcements**
+  - <strong>A more robust and challenging multi-task language understanding benchmark that extends MMLU by expanding multiple-choice options from 4 to 10, eliminating trivial questions, and focusing on reasoning-intensive tasks</strong>.
+  - [Source](https://llm-stats.com/ai-news)
 
 - **A smarter way for large language models to think about hard problems | MIT News | Massachusetts Institute of Technology**
-  - The researchers found that <strong>their new approach enabled LLMs to use as little as one-half the computation as existing methods, while achieving comparable accuracy on a range of questions with varying difficulties</strong>.
+  - <strong>MIT researchers developed a smarter way for an LLM to allocate computation while it reasons about a problem</strong>. Their method lets the model dynamically adjust its computational budget based on the difficulty of the question and the likelihood that ...
   - [Source](https://news.mit.edu/2025/smarter-way-large-language-models-think-about-hard-problems-1204)
 
-- **OpenAI has trained its LLM to confess to bad behavior | MIT Technology Review**
-  - <strong>OpenAI is testing another new way to expose the complicated processes at work inside large language models</strong>. Researchers at the company can make an LLM produce what they call a confession, in which the model explains how it carried out a task ...
-  - [Source](https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/)
+### Notable Innovations
 
-- **A smarter way for large language models to think about hard problems**
-  - Credit: arXiv (2025). DOI: 10.48550/arxiv.2506.09338 · <strong>A recent approach called inference-time scaling lets a large language model take more time to reason about difficult problems</strong>.
-  - [Source](https://techxplore.com/news/2025-12-smarter-large-language-hard-problems.html)
+- **The great AI hype correction of 2025 | MIT Technology Review**
+  - In November, a study by researchers ... freelancers, found that <strong>agents powered by top LLMs from OpenAI, Google DeepMind, and Anthropic failed to complete many straightforward workplace tasks by themselves</strong>....
+  - [Source](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from news](./archives/news_2025-12-15.md)
 - [News from news](./archives/news_2025-12-08.md)
 - [News from news](./archives/news_2025-12-01.md)
 - [News from news](./archives/news_2025-11-24.md)
 - [News from news](./archives/news_2025-11-17.md)
-- [News from news](./archives/news_2025-11-10.md)
 
 ## Contributing
 
