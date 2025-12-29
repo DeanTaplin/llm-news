@@ -2,46 +2,46 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (December 22, 2025)
+## Latest Updates (December 29, 2025)
 
 
 ### Major Model Releases & Improvements
-
-- **A new way to increase the capabilities of large language models | MIT News | Massachusetts Institute of Technology**
-  - The MIT-IBM researchers then explored PaTH Attention’s performance on synthetic and real-world tasks, including reasoning, long-context benchmarks, and full LLM training to see whether it improved a model’s ability to track information over time.
-  - [Source](https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217)
-
-- **Large Language Model News, Analysis and Resources**
-  - Mar 12th 2025 1:00pm, by Darryl K. Taft and Loraine Lawson · Oracle Won’t Release ‘JavaScript’ Without a Fight ... Large Language Models (LLMs) represent a transformative advancement in artificial intelligence, enabling machines to understand, generate, and interact with human language in increasingly sophisticated ways.
-  - [Source](https://thenewstack.io/llm/)
-
-- **Language models recent news | AI Business**
-  - Explore the latest news and expert commentary on Language models, brought to you by the editors of AI Business
-  - [Source](https://aibusiness.com/nlp/language-models)
 
 - **LLM News Today | AI News & Latest Model Announcements**
   - <strong>A more robust and challenging multi-task language understanding benchmark that extends MMLU by expanding multiple-choice options from 4 to 10, eliminating trivial questions, and focusing on reasoning-intensive tasks</strong>.
   - [Source](https://llm-stats.com/ai-news)
 
+- **A new way to increase the capabilities of large language models | MIT News | Massachusetts Institute of Technology**
+  - The MIT-IBM researchers then explored PaTH Attention’s performance on synthetic and real-world tasks, including reasoning, long-context benchmarks, and full LLM training to see whether it improved a model’s ability to track information over time.
+  - [Source](https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217)
+
 - **A smarter way for large language models to think about hard problems | MIT News | Massachusetts Institute of Technology**
-  - <strong>MIT researchers developed a smarter way for an LLM to allocate computation while it reasons about a problem</strong>. Their method lets the model dynamically adjust its computational budget based on the difficulty of the question and the likelihood that ...
+  - The researchers found that <strong>their new approach enabled LLMs to use as little as one-half the computation as existing methods, while achieving comparable accuracy on a range of questions with varying difficulties</strong>.
   - [Source](https://news.mit.edu/2025/smarter-way-large-language-models-think-about-hard-problems-1204)
+
+- **Top 9 Large Language Models as of December 2025 | Shakudo**
+  - <strong>Google continues to advance its large language model (LLM) family with the latest Gemini 2.5 series</strong>. This updated version is designed for enhanced complex problem-solving and native multimodal understanding.
+  - [Source](https://www.shakudo.io/blog/top-9-large-language-models)
+
+- **AI Wrapped: The 14 AI terms you couldn’t avoid in 2025 | MIT Technology Review**
+  - <strong>In no time, reasoning models became the industry standard</strong>: All major mass-market chatbots now come in flavors backed by this tech. Reasoning models have pushed the envelope of what LLMs can do, matching top human performances in prestigious ...
+  - [Source](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)
 
 ### Notable Innovations
 
-- **The great AI hype correction of 2025 | MIT Technology Review**
-  - In November, a study by researchers ... freelancers, found that <strong>agents powered by top LLMs from OpenAI, Google DeepMind, and Anthropic failed to complete many straightforward workplace tasks by themselves</strong>....
-  - [Source](https://www.technologyreview.com/2025/12/15/1129174/the-great-ai-hype-correction-of-2025/)
+- **Lowering barriers to explainable AI: Control technique for LLMs reduces resource demands by over 90%**
+  - To tackle this challenge, <strong>a Manchester research team led by Dr.</strong> Danilo S. Carvalho and Dr. André Freitas have developed new software frameworks—LangVAE and LangSpace—that significantly reduce both hardware and energy resource needs for ...
+  - [Source](https://techxplore.com/news/2025-12-lowering-barriers-ai-technique-llms.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from news](./archives/news_2025-12-22.md)
 - [News from news](./archives/news_2025-12-15.md)
 - [News from news](./archives/news_2025-12-08.md)
 - [News from news](./archives/news_2025-12-01.md)
 - [News from news](./archives/news_2025-11-24.md)
-- [News from news](./archives/news_2025-11-17.md)
 
 ## Contributing
 
