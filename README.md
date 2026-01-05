@@ -2,46 +2,52 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (December 29, 2025)
+## Latest Updates (January 05, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **LLM News Today | AI News & Latest Model Announcements**
-  - <strong>A more robust and challenging multi-task language understanding benchmark that extends MMLU by expanding multiple-choice options from 4 to 10, eliminating trivial questions, and focusing on reasoning-intensive tasks</strong>.
-  - [Source](https://llm-stats.com/ai-news)
+- **In 2026, AI will move from hype to pragmatism | TechCrunch**
+  - That’s why many researchers believe ... spaces so they can make predictions and take actions. Signs that <strong>2026 will be a big year for world models are multiplying</strong>....
+  - [Source](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)
 
-- **A new way to increase the capabilities of large language models | MIT News | Massachusetts Institute of Technology**
-  - The MIT-IBM researchers then explored PaTH Attention’s performance on synthetic and real-world tasks, including reasoning, long-context benchmarks, and full LLM training to see whether it improved a model’s ability to track information over time.
-  - [Source](https://news.mit.edu/2025/new-way-to-increase-large-language-model-capabilities-1217)
+- **The State Of LLMs 2025: Progress, Progress, and Predictions**
+  - <strong>A 2025 review of large language models, from DeepSeek R1 and RLVR to inference-time scaling, benchmarks, architectures, and predictions for 2026</strong>.
+  - [Source](https://magazine.sebastianraschka.com/p/state-of-llms-2025)
 
-- **A smarter way for large language models to think about hard problems | MIT News | Massachusetts Institute of Technology**
-  - The researchers found that <strong>their new approach enabled LLMs to use as little as one-half the computation as existing methods, while achieving comparable accuracy on a range of questions with varying difficulties</strong>.
-  - [Source](https://news.mit.edu/2025/smarter-way-large-language-models-think-about-hard-problems-1204)
+- **17 predictions for AI in 2026**
+  - <strong>By mid-2025, LLM releases seemed to be improving more quickly, doubling successful task lengths in just five months</strong>. METR estimates that Claude Opus 4.5, released in November, could complete software tasks (with at least a 50% success rate) ...
+  - [Source](https://www.understandingai.org/p/17-predictions-for-ai-in-2026)
 
-- **Top 9 Large Language Models as of December 2025 | Shakudo**
-  - <strong>Google continues to advance its large language model (LLM) family with the latest Gemini 2.5 series</strong>. This updated version is designed for enhanced complex problem-solving and native multimodal understanding.
-  - [Source](https://www.shakudo.io/blog/top-9-large-language-models)
+- **2025: The year in LLMs**
+  - A notable result is that <strong>AI assisted search actually works now</strong>. Hooking up search engines to LLMs had questionable results before, but now I find even my more complex research questions can often be answered by GPT-5 Thinking in ChatGPT.
+  - [Source](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
 
-- **AI Wrapped: The 14 AI terms you couldn’t avoid in 2025 | MIT Technology Review**
-  - <strong>In no time, reasoning models became the industry standard</strong>: All major mass-market chatbots now come in flavors backed by this tech. Reasoning models have pushed the envelope of what LLMs can do, matching top human performances in prestigious ...
-  - [Source](https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/)
+- **Microsoft Research Develops Novel Approaches to Enforce Privacy in AI Models - InfoQ**
+  - <strong>A team of AI researchers at Microsoft introduces two novel approaches for enforcing contextual integrity in large language models</strong>: PrivacyChecker, an open-source lightweight module that acts as a privacy shield during inference, and CI-CoT + ...
+  - [Source](https://www.infoq.com/news/2026/01/microsoft-llm-contextual-privacy/)
 
 ### Notable Innovations
 
-- **Lowering barriers to explainable AI: Control technique for LLMs reduces resource demands by over 90%**
-  - To tackle this challenge, <strong>a Manchester research team led by Dr.</strong> Danilo S. Carvalho and Dr. André Freitas have developed new software frameworks—LangVAE and LangSpace—that significantly reduce both hardware and energy resource needs for ...
-  - [Source](https://techxplore.com/news/2025-12-lowering-barriers-ai-technique-llms.html)
+- **DeepSeek's paper latest evidence AI muscle head era coming to end | Constellation Research Inc.**
+  - Toward the end of 2025, investors were starting to question the capital expense and debt load behind the AI buildout. In 2026, <strong>we&#x27;re likely to see more engineering excellence and less muscle head logic</strong>.
+  - [Source](https://www.constellationr.com/blog-news/insights/deepseeks-paper-latest-evidence-ai-muscle-head-era-coming-end)
+
+### Market Trends
+
+- **Top LLMs and AI Trends for 2026 | Clarifai Industry Guide**
+  - The finance sector already sees AI reviewing credit applications and algorithmic trading accounting for up to 80 % of transactions. By 2026, <strong>LLMs will deliver personalized financial advice, detect fraud and automate regulatory reporting</strong>.
+  - [Source](https://www.clarifai.com/blog/llms-and-ai-trends)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from news](./archives/news_2025-12-29.md)
 - [News from news](./archives/news_2025-12-22.md)
 - [News from news](./archives/news_2025-12-15.md)
 - [News from news](./archives/news_2025-12-08.md)
 - [News from news](./archives/news_2025-12-01.md)
-- [News from news](./archives/news_2025-11-24.md)
 
 ## Contributing
 
