@@ -2,52 +2,56 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Large Language Models (LLMs).
 
-## Latest Updates (January 05, 2026)
+## Latest Updates (January 12, 2026)
 
 
 ### Major Model Releases & Improvements
 
-- **In 2026, AI will move from hype to pragmatism | TechCrunch**
-  - That’s why many researchers believe ... spaces so they can make predictions and take actions. Signs that <strong>2026 will be a big year for world models are multiplying</strong>....
-  - [Source](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)
+- **What's next for AI in 2026 | MIT Technology Review**
+  - <strong>The breakthrough was to combine Gemini with an evolutionary algorithm that checked its suggestions, picked the best ones, and fed them back into the LLM to make them even better</strong>. Google DeepMind used AlphaEvolve to come up with more efficient ...
+  - [Source](https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/)
 
-- **The State Of LLMs 2025: Progress, Progress, and Predictions**
-  - <strong>A 2025 review of large language models, from DeepSeek R1 and RLVR to inference-time scaling, benchmarks, architectures, and predictions for 2026</strong>.
-  - [Source](https://magazine.sebastianraschka.com/p/state-of-llms-2025)
+- **Large Language Models (LLMs) Are Inherently Frail and Unreliable | Mind Matters**
+  - For example, <strong>TurboTax, which has been around long before LLMs appeared, now uses an LLM to generate the text for interacting with users but relies on experts for its calculations and for determining what questions to ask users</strong>.
+  - [Source](https://mindmatters.ai/2026/01/large-language-models-llms-are-inherently-frail-and-unreliable/)
+
+- **LLM News Today | AI News & Latest Model Announcements**
+  - <strong>A more robust and challenging multi-task language understanding benchmark that extends MMLU by expanding multiple-choice options from 4 to 10, eliminating trivial questions, and focusing on reasoning-intensive tasks</strong>.
+  - [Source](https://llm-stats.com/ai-news)
+
+- **Top 9 Large Language Models as of January 2026 | Shakudo**
+  - <strong>The company has announced its latest flagship model, GPT-5.2</strong>, following closely on the heels of GPT-5.1. The new standard features a significantly expanded context window of 400K tokens (up from 128K in GPT-4) and achieves a perfect 100% score ...
+  - [Source](https://www.shakudo.io/blog/top-9-large-language-models)
 
 - **17 predictions for AI in 2026**
   - <strong>By mid-2025, LLM releases seemed to be improving more quickly, doubling successful task lengths in just five months</strong>. METR estimates that Claude Opus 4.5, released in November, could complete software tasks (with at least a 50% success rate) ...
   - [Source](https://www.understandingai.org/p/17-predictions-for-ai-in-2026)
 
-- **2025: The year in LLMs**
-  - A notable result is that <strong>AI assisted search actually works now</strong>. Hooking up search engines to LLMs had questionable results before, but now I find even my more complex research questions can often be answered by GPT-5 Thinking in ChatGPT.
-  - [Source](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
-
-- **Microsoft Research Develops Novel Approaches to Enforce Privacy in AI Models - InfoQ**
-  - <strong>A team of AI researchers at Microsoft introduces two novel approaches for enforcing contextual integrity in large language models</strong>: PrivacyChecker, an open-source lightweight module that acts as a privacy shield during inference, and CI-CoT + ...
-  - [Source](https://www.infoq.com/news/2026/01/microsoft-llm-contextual-privacy/)
-
 ### Notable Innovations
 
-- **DeepSeek's paper latest evidence AI muscle head era coming to end | Constellation Research Inc.**
-  - Toward the end of 2025, investors were starting to question the capital expense and debt load behind the AI buildout. In 2026, <strong>we&#x27;re likely to see more engineering excellence and less muscle head logic</strong>.
-  - [Source](https://www.constellationr.com/blog-news/insights/deepseeks-paper-latest-evidence-ai-muscle-head-era-coming-end)
+- **AI's Memorization Crisis - The Atlantic**
+  - AI is frequently explained in terms of metaphor; tech companies like to say that their products learn, that LLMs have, for example, developed an understanding of English writing without explicitly being told the rules of English grammar. This new research, along with several other studies from the past two years, undermines that metaphor.
+  - [Source](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/)
 
 ### Market Trends
 
-- **Top LLMs and AI Trends for 2026 | Clarifai Industry Guide**
-  - The finance sector already sees AI reviewing credit applications and algorithmic trading accounting for up to 80 % of transactions. By 2026, <strong>LLMs will deliver personalized financial advice, detect fraud and automate regulatory reporting</strong>.
-  - [Source](https://www.clarifai.com/blog/llms-and-ai-trends)
+- **In 2026, AI will move from hype to pragmatism | TechCrunch**
+  - “<strong>Fine-tuned SLMs will be the big trend and become a staple used by mature AI enterprises in 2026</strong>, as the cost and performance advantages will drive usage over out-of-the-box LLMs,” Andy Markus, AT&amp;T’s chief data officer, told TechCrunch.
+  - [Source](https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/)
+
+- **CES 2026: AI applications of Chinese LLM from AISpeech**
+  - A representative from a European IOT enterprise commented after the experience: &quot;AISpeech&#x27;s conversation system is surprisingly impressive in terms of synthetic naturalness and understanding of accents and minor languages. It truly has the technical foundation to serve the global market.&quot; ... AISpeech&#x27;s global strategy covers two core scenarios: consumer and enterprise sectors. Smart Mobility: AISpeech&#x27;s Orphi Voice Assistant, built on the &quot;1+N Reliable Distributed LLM Agent System&quot;, features high customization and on-device deployment capabilities.
+  - [Source](https://www.prnewswire.com/news-releases/ces-2026-ai-applications-of-chinese-llm-from-aispeech-302656514.html)
 
 ## News Archive
 
 [Browse all historical news](./history/)
 
+- [News from news](./archives/news_2026-01-05.md)
 - [News from news](./archives/news_2025-12-29.md)
 - [News from news](./archives/news_2025-12-22.md)
 - [News from news](./archives/news_2025-12-15.md)
 - [News from news](./archives/news_2025-12-08.md)
-- [News from news](./archives/news_2025-12-01.md)
 
 ## Contributing
 
